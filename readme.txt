@@ -5,5 +5,3 @@ Git tracks changes of files.
 
 Greating a new branch is quick AND simple
 
-
-BBBBBB
