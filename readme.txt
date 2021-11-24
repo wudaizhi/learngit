@@ -8,4 +8,4 @@ Greating a new branch is quick AND simple
 AAAAAAAAAAA
 BBBBBBBBBBBBBB
 CCC
-EEE
+EEEEEE
